@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32523
     wikipedia: http://en.wikipedia.org/wiki/Vladimir_Chertkov
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40260#The-Last-Days-of-Tolstoy
 gutenberg_issued: '2012-07-16'
 gutenberg_type: Text
 identifiers:
