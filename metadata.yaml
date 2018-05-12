@@ -1,0 +1,32 @@
+_repo: The-Last-Days-of-Tolstoy_40260
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40260-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chertkov, V. G. (Vladimir Grigorevich)
+    aliases:
+    - Tchertkoff, V. (Vladimir)
+    - Chertkov, Vladimir
+    - Чертков, В. Г. (Владимир Григорьевич)
+    birthdate: 1854
+    deathdate: 1936
+    gutenberg_agent_id: '32523'
+    url: http://www.gutenberg.org/2009/agents/32523
+    wikipedia: http://en.wikipedia.org/wiki/Vladimir_Chertkov
+description: ''
+gutenberg_issued: '2012-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40260'
+  lccn: '23011821'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Tolstoy, Leo, graf, 1828-1910'
+title: The Last Days of Tolstoy
+url: http://www.gutenberg.org/ebooks/40260
